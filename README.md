@@ -25,7 +25,8 @@ Este projeto foi construído com as tecnologias fundamentais do Front-End:
 ## 📂 Estrutura do Projeto
 
 ```text
-├── index.html          
-├── styles.css         
-├── menu.js           
-└── Imagem/           
+├── imagens          
+├── index.html        
+├── menu.js
+├── preview.png           
+└── styles.css           
