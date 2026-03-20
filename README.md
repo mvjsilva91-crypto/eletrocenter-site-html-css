@@ -2,7 +2,7 @@
 
 O **Eletrocenter** é uma landing page moderna para uma loja física de eletroeletrônicos. O projeto foi desenvolvido para funcionar como uma vitrine online, apresentando produtos, serviços e informações de contato de forma clara e responsiva.
 
-![Preview do Site](screenshot.png)
+![Preview do Site](preview.png/screenshot.png)
 
 ---
 
